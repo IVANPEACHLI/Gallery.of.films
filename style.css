@@ -1,0 +1,31 @@
+header {
+        text-align: center;
+        font-size: 50px;
+        background-color: orange;
+        font-family: cursive;
+}
+
+main p{
+       background-color: turquoise;
+       font-size: 25px;
+       text-align: center;
+       
+}
+
+a{
+        text-decoration: none;
+}
+
+h2{
+   background-color: #87CEEB;
+   font-family: Georgia;
+}
+
+body{
+     background-color:#E6E6FA;
+}
+
+footer{
+        text-align: center;
+        font-family: cursive;
+}
